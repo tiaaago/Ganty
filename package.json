@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "awesome-qr": "^2.1.5-rc.0",
+    "axios": "^0.27.2",
+    "chalk": "^4.1.2",
+    "discord-html-transcripts": "^3.1.3",
+    "discord-transcript": "^2.0.9",
+    "discord.js": "^14.8.0",
+    "djs-transcript": "^1.0.1",
+    "generate-password": "^1.7.0",
+    "mercadopago": "^1.5.14",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.37",
+    "mongoose": "^6.6.1",
+    "ms": "^2.1.3",
+    "node-cron": "^3.0.2",
+    "parse-ms": "^2.1.0"
+  },
+  "name": "gantystable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BOTsRanked/GantyStable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BOTsRanked/GantyStable/issues"
+  },
+  "homepage": "https://github.com/BOTsRanked/GantyStable#readme",
+  "description": ""
+}
